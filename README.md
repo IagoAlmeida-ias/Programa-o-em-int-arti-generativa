@@ -1,1 +1,0 @@
-# Programa-o-em-int-arti-generativa
